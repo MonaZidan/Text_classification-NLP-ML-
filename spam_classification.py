@@ -111,7 +111,7 @@ def predict_message(model):
 
 def main():
     # Load Data
-    df = load_data("F:\Route_AI_Diploma\Eng-Mahmoud_yahia\github_proj\Text_classisication_ML\SPAM text message 20170820 - Data.csv")
+    df = load_data("SPAM text message 20170820 - Data.csv")
     data_info(df)
     df = preprocess_dataframe(df)
     text, labels = data_preprocessing(df)
