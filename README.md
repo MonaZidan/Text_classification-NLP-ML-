@@ -30,7 +30,7 @@ The core workflow includes:
 
 ## 📁 Dataset
 
-This project uses the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) which contains 5,572 labeled messages.
+This project uses the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification) which contains 5,572 labeled messages.
 
 | Column    | Description          |
 |-----------|----------------------|
